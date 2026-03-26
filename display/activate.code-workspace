@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../activate"
+		},
+		{
+			"path": "../city"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../fight"
+		},
+		{
+			"path": "../music"
+		},
+		{
+			"path": "../plot"
+		}
+	]
+}
