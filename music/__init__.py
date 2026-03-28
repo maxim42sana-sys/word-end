@@ -1,7 +1,12 @@
+from collections import defaultdict as ddict
+
 class Trigger:
-  def __init__(self, event, mus):
+  events = ddict(str)
+  def __init__(self, key, event, mus, *args):
+    self.key = key
     self.event = event
     self.mus = mus
+    self.args = args
   def update(self):
-    if self.event():
-      self.mus.play()
+    if self.events[self.key] == self.event:
+      self.mus.play(*self.args)
