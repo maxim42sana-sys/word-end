@@ -14,20 +14,20 @@
 
 ### use pixi, this is pixi.toml:
 
+<code>
 [workspace]
 channels = ["conda-forge"]
 name = "word-end"
-platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
 
 [dependencies]
 python = ">=3.14.3,<3.15"
-7zip = ">=26.0,<27"
 
 [pypi-dependencies]
 pygame-ce = ">=2.5.7, <3"
+</code>
 
 <h2>I will thank to human, who can give any help, I strongly believe that we can do anything!</h2>
 My Gmail: maxim42sana@mail.ru
