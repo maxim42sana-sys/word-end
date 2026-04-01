@@ -5,7 +5,7 @@
 
 <h3>Things you can send to my Gmail for our project (if you want, of course):</h3>
 <pre>  Music in .mp3 format.</pre>
-<pre>  Some code.</pre>
+<pre>  Some code for project.</pre>
 
 ### You must install:
 -pygame
