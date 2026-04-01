@@ -3,7 +3,7 @@
 <pre>  However, you can choose the bad path and hurt any human with axe or sword!</pre> 
 <pre>  You can use items - map, for example.</pre>
 
-<h3>Things you can send to my Gmail for our project (if you want, of course):</h3>
+<h3>Things you can send to my mail for our project (if you want, of course):</h3>
 <pre>  Music in .mp3 format.</pre>
 <pre>  Some code for project.</pre>
 
@@ -30,6 +30,7 @@ pygame-ce = ">=2.5.7, <3"
 </code>
 
 <h2>I will thank to human, who can give any help, I strongly believe that we can do anything!</h2>
-My Gmail: maxim42sana@mail.ru
+
+##### My mail: maxim42sana@mail.ru
 
 <sub>please, add star to make project popular</sub>
